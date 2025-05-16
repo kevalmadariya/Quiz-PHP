@@ -1,0 +1,28 @@
+
+
+#regibody{
+    background-color:black;
+    background-image: url("https://www.google.com/imgres?q=background%20image%20for%20website&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F07%2F23%2F11%2F50%2F360_F_723115083_Xxh78ffOyOcBqeSJQ1bXOm9xEqcaQ2mr.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dwebsite%2Bbackground&docid=G3d1jNe1C_KzvM&tbnid=teiNE3YdK6lkTM&vet=12ahUKEwjVkMrYkKONAxVzjWMGHZ-2M6QQM3oECFUQAA..i&w=643&h=360&hcb=2&ved=2ahUKEwjVkMrYkKONAxVzjWMGHZ-2M6QQM3oECFUQAA");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#td1{
+    text-align: center;
+    background-color: rgb(82, 185, 249);
+    border-radius: 22px;
+}
+#com1{
+    background-color:rgb(251, 173, 173);
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ksdck{
+    color:rgb(62, 245, 30);
+}
+
+
+
+
